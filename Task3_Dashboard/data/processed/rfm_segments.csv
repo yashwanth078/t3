@@ -1,0 +1,948 @@
+Customer_ID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment,City,Gender,Top_Category
+CUST1004,312,1,8321.54,1,1,1,111,Lost,Bengaluru,Female,Electronics
+CUST1017,261,1,264230.68,2,1,5,215,Promising,Pune,Female,Fashion
+CUST1026,95,1,164965.29,4,1,4,414,Potential Loyalists,Kolkata,Female,Education
+CUST1032,249,1,146990.9,2,1,4,214,Promising,Pune,Female,Electronics
+CUST1038,241,1,37068.4,2,1,1,211,Promising,Patna,Male,Grocery
+CUST1049,299,1,16714.64,1,1,1,111,Lost,Hyderabad,Female,Education
+CUST1088,128,1,203819.75,4,1,4,414,Potential Loyalists,Patna,Male,Fashion
+CUST1090,2,1,5263.79,5,1,1,511,Potential Loyalists,,Female,Fashion
+CUST1094,196,1,211945.9,3,1,4,314,Potential Loyalists,Patna,Female,Electronics
+CUST1104,275,1,90746.36,2,1,3,213,Promising,Hyderabad,Female,Education
+CUST1106,298,1,51838.36,1,1,2,112,Lost,Patna,Male,Grocery
+CUST1113,303,1,181063.26,1,1,4,114,Lost,Gaya,Female,Fashion
+CUST1122,53,1,122431.8,5,1,3,513,Potential Loyalists,Kolkata,Female,Grocery
+CUST1124,208,1,362370.56,3,1,5,315,Potential Loyalists,Patna,Female,Grocery
+CUST1149,107,1,340749.52,4,1,5,415,Potential Loyalists,Hyderabad,Female,Electronics
+CUST1159,41,1,82567.7,5,1,2,512,Potential Loyalists,Pune,Male,Electronics
+CUST1170,312,1,103361.36,1,1,3,113,Lost,Mumbai,Male,Electronics
+CUST1175,360,1,113673.3,1,1,3,113,Lost,Gaya,Female,Fashion
+CUST1183,180,1,49324.8,3,1,2,312,Potential Loyalists,Gaya,Female,Furniture
+CUST1189,125,1,36307.74,4,1,1,411,Potential Loyalists,Pune,Female,Fashion
+CUST1197,324,1,5944.12,1,1,1,111,Lost,Pune,Male,Education
+CUST1215,341,1,10367.0,1,1,1,111,Lost,Gaya,Male,Furniture
+CUST1231,1,1,187087.76,5,1,4,514,Potential Loyalists,Patna,Male,Grocery
+CUST1246,16,1,2094.36,5,1,1,511,Potential Loyalists,Kolkata,Female,Electronics
+CUST1252,306,1,112029.57,1,1,3,113,Lost,Pune,Male,Fashion
+CUST1253,216,1,87892.59,2,1,3,213,Promising,Gaya,Female,Electronics
+CUST1256,200,1,242289.7,3,1,5,315,Potential Loyalists,Kolkata,Male,Electronics
+CUST1258,229,1,47389.09,2,1,2,212,Promising,Hyderabad,Male,Electronics
+CUST1269,186,1,80421.12,3,1,2,312,Potential Loyalists,Gaya,Female,Education
+CUST1284,308,1,105461.08,1,1,3,113,Lost,Bengaluru,Male,Electronics
+CUST1312,261,1,144194.72,2,1,4,214,Promising,Kolkata,Male,Electronics
+CUST1316,235,1,16249.69,2,1,1,211,Promising,Delhi,Female,Electronics
+CUST1334,56,1,34200.58,5,1,1,511,Potential Loyalists,Kolkata,Male,Fashion
+CUST1339,155,1,203324.1,3,1,4,314,Potential Loyalists,Kolkata,Male,Education
+CUST1357,323,1,195601.44,1,1,4,114,Lost,Delhi,Male,Fashion
+CUST1367,243,1,43529.29,2,1,2,212,Promising,Bengaluru,Female,Education
+CUST1396,143,1,21572.48,4,1,1,411,Potential Loyalists,Pune,Male,Furniture
+CUST1399,339,1,74022.24,1,1,2,112,Lost,Gaya,Male,Education
+CUST1401,92,1,254734.06,4,1,5,415,Potential Loyalists,Delhi,Male,Grocery
+CUST1406,40,1,315765.0,5,1,5,515,Potential Loyalists,Gaya,Male,Fashion
+CUST1419,204,1,54878.34,3,1,2,312,Potential Loyalists,Mumbai,Male,Grocery
+CUST1433,29,1,108470.6,5,1,3,513,Potential Loyalists,Mumbai,Female,Fashion
+CUST1436,36,1,19590.5,5,1,1,511,Potential Loyalists,Delhi,Female,Electronics
+CUST1442,292,1,27918.98,1,1,1,111,Lost,Pune,Female,Education
+CUST1443,26,1,25336.7,5,1,1,511,Potential Loyalists,,Female,Grocery
+CUST1452,323,1,266207.48,1,1,5,115,Lost,Hyderabad,Female,Fashion
+CUST1453,242,1,42816.6,2,1,2,212,Promising,Gaya,Male,Fashion
+CUST1463,136,2,173654.34000000003,4,5,4,454,Champions,Bengaluru,Female,Electronics
+CUST1468,179,1,359775.2,3,1,5,315,Potential Loyalists,Kolkata,Female,Fashion
+CUST1479,149,1,317305.7,3,1,5,315,Potential Loyalists,Bengaluru,Female,Furniture
+CUST1481,79,1,78764.8,4,1,2,412,Potential Loyalists,Patna,Female,Furniture
+CUST1516,240,1,199641.96,2,1,4,214,Promising,Mumbai,Male,Electronics
+CUST1528,287,1,48389.92,2,1,2,212,Promising,Patna,Male,Electronics
+CUST1557,309,1,123371.82,1,1,3,113,Lost,Mumbai,Female,Furniture
+CUST1565,72,1,80289.8,4,1,2,412,Potential Loyalists,Delhi,Female,Education
+CUST1577,320,1,36943.51,1,1,1,111,Lost,Delhi,Male,Fashion
+CUST1603,292,1,136560.28,1,1,3,113,Lost,Mumbai,Female,Electronics
+CUST1611,58,1,46050.0,5,1,2,512,Potential Loyalists,Patna,Male,Grocery
+CUST1614,323,1,74620.36,1,1,2,112,Lost,Bengaluru,Female,Education
+CUST1616,131,1,99704.97,4,1,3,413,Potential Loyalists,Delhi,Female,Electronics
+CUST1618,97,1,158916.6,4,1,4,414,Potential Loyalists,Patna,Male,Grocery
+CUST1636,110,1,52698.94,4,1,2,412,Potential Loyalists,Patna,Female,Furniture
+CUST1637,13,1,20669.3,5,1,1,511,Potential Loyalists,Patna,Male,Grocery
+CUST1658,212,1,193777.92,3,1,4,314,Potential Loyalists,Hyderabad,Male,Grocery
+CUST1662,154,1,96526.71,3,1,3,313,Potential Loyalists,Pune,Female,Education
+CUST1673,166,1,175604.15,3,1,4,314,Potential Loyalists,Gaya,Male,Grocery
+CUST1681,170,1,140328.85,3,1,3,313,Potential Loyalists,Delhi,Male,Fashion
+CUST1691,86,1,14209.86,4,1,1,411,Potential Loyalists,Mumbai,Male,Electronics
+CUST1710,107,1,440456.6,4,1,5,415,Potential Loyalists,Hyderabad,Female,Education
+CUST1711,173,1,490866.4,3,1,5,315,Potential Loyalists,Bengaluru,Female,Fashion
+CUST1713,147,1,31739.18,3,1,1,311,Potential Loyalists,Bengaluru,Female,Fashion
+CUST1743,116,1,161107.04,4,1,4,414,Potential Loyalists,Hyderabad,Male,Fashion
+CUST1753,226,1,3239.94,2,1,1,211,Promising,Hyderabad,Female,Fashion
+CUST1758,80,1,299985.18,4,1,5,415,Potential Loyalists,Patna,Male,Electronics
+CUST1759,142,1,109150.3,4,1,3,413,Potential Loyalists,Delhi,Female,Electronics
+CUST1762,157,1,123899.8,3,1,3,313,Potential Loyalists,Delhi,Male,Education
+CUST1764,10,1,51751.06,5,1,2,512,Potential Loyalists,Hyderabad,Male,Electronics
+CUST1766,303,1,7119.05,1,1,1,111,Lost,Kolkata,Male,Electronics
+CUST1779,213,1,166613.7,3,1,4,314,Potential Loyalists,Delhi,Female,Fashion
+CUST1780,216,1,105473.12,2,1,3,213,Promising,Hyderabad,Male,Education
+CUST1790,277,1,12225.22,2,1,1,211,Promising,Hyderabad,Male,Electronics
+CUST1806,209,1,64332.45,3,1,2,312,Potential Loyalists,Patna,Male,Furniture
+CUST1808,73,1,218701.12,4,1,4,414,Potential Loyalists,Patna,Male,Furniture
+CUST1822,87,1,121853.1,4,1,3,413,Potential Loyalists,Kolkata,Male,Electronics
+CUST1833,5,1,111006.18,5,1,3,513,Potential Loyalists,Gaya,Male,Education
+CUST1835,8,1,64865.3,5,1,2,512,Potential Loyalists,Gaya,Female,Furniture
+CUST1840,366,1,23787.6,1,1,1,111,Lost,Kolkata,Female,Electronics
+CUST1841,313,1,82193.5,1,1,2,112,Lost,Kolkata,Male,Education
+CUST1887,98,1,277415.76,4,1,5,415,Potential Loyalists,Hyderabad,Male,Furniture
+CUST1890,283,1,129500.85,2,1,3,213,Promising,Gaya,Male,Furniture
+CUST1906,32,1,40714.7,5,1,2,512,Potential Loyalists,Hyderabad,Male,Furniture
+CUST1928,190,1,340497.71,3,1,5,315,Potential Loyalists,Mumbai,Female,Electronics
+CUST1932,104,1,7741.12,4,1,1,411,Potential Loyalists,Delhi,Male,Electronics
+CUST1936,301,1,130702.11,1,1,3,113,Lost,Delhi,Male,Electronics
+CUST1940,133,1,163606.7,4,1,4,414,Potential Loyalists,Gaya,Male,Fashion
+CUST1956,6,1,110614.05,5,1,3,513,Potential Loyalists,Bengaluru,Female,Fashion
+CUST1960,212,1,285213.69,3,1,5,315,Potential Loyalists,Kolkata,Male,Grocery
+CUST1962,291,1,55802.3,1,1,2,112,Lost,Delhi,Male,Grocery
+CUST1987,4,1,58568.76,5,1,2,512,Potential Loyalists,Kolkata,Male,Electronics
+CUST1991,212,1,126402.03,3,1,3,313,Potential Loyalists,Kolkata,Female,Education
+CUST1994,7,2,238881.24,5,5,4,554,Champions,Patna,Female,Education
+CUST1997,57,2,136106.62,5,5,3,553,Loyal Customers,Patna,Female,Electronics
+CUST2003,154,1,47674.82,3,1,2,312,Potential Loyalists,Mumbai,Female,Grocery
+CUST2006,261,1,3310.72,2,1,1,211,Promising,Kolkata,Male,Education
+CUST2025,62,1,98774.4,5,1,3,513,Potential Loyalists,Delhi,Female,Furniture
+CUST2027,214,1,121322.16,3,1,3,313,Potential Loyalists,Gaya,Male,Grocery
+CUST2031,328,1,34616.52,1,1,1,111,Lost,Gaya,Female,Fashion
+CUST2039,312,1,231048.23,1,1,4,114,Lost,Mumbai,Male,Electronics
+CUST2051,327,1,109237.86,1,1,3,113,Lost,Bengaluru,Male,Grocery
+CUST2062,115,1,493677.5,4,1,5,415,Potential Loyalists,Patna,Male,Education
+CUST2079,68,1,323841.07,5,1,5,515,Potential Loyalists,Mumbai,Male,Furniture
+CUST2088,250,1,24428.2,2,1,1,211,Promising,Hyderabad,Female,Education
+CUST2093,248,1,121791.05,2,1,3,213,Promising,Mumbai,Female,Electronics
+CUST2094,166,1,113543.48,3,1,3,313,Potential Loyalists,Hyderabad,Female,Education
+CUST2126,263,1,21819.5,2,1,1,211,Promising,Patna,Male,Grocery
+CUST2137,272,1,91115.3,2,1,3,213,Promising,Mumbai,Female,Fashion
+CUST2138,299,1,137878.74,1,1,3,113,Lost,Gaya,Female,Grocery
+CUST2152,111,1,96867.4,4,1,3,413,Potential Loyalists,Bengaluru,Female,Electronics
+CUST2157,278,1,86397.04,2,1,2,212,Promising,,Male,Electronics
+CUST2181,102,1,22401.12,4,1,1,411,Potential Loyalists,Bengaluru,Female,Grocery
+CUST2190,216,1,75639.4,2,1,2,212,Promising,Hyderabad,Male,Grocery
+CUST2202,166,1,80260.42,3,1,2,312,Potential Loyalists,Patna,Female,Furniture
+CUST2218,221,1,63231.28,2,1,2,212,Promising,Delhi,Male,Furniture
+CUST2231,235,1,1144.78,2,1,1,211,Promising,Delhi,Male,Electronics
+CUST2236,164,1,26010.12,3,1,1,311,Potential Loyalists,Pune,Male,Electronics
+CUST2242,39,1,349767.9,5,1,5,515,Potential Loyalists,Delhi,Female,Electronics
+CUST2256,316,1,115969.35,1,1,3,113,Lost,Hyderabad,Male,Fashion
+CUST2260,336,1,11539.95,1,1,1,111,Lost,Kolkata,Male,Electronics
+CUST2286,11,1,36304.28,5,1,1,511,Potential Loyalists,Patna,Female,Electronics
+CUST2290,291,1,48677.96,1,1,2,112,Lost,Mumbai,Male,Education
+CUST2295,59,1,238983.9,5,1,4,514,Potential Loyalists,Mumbai,Male,Education
+CUST2343,1,1,98080.92,5,1,3,513,Potential Loyalists,Patna,Male,Electronics
+CUST2345,115,1,224371.6,4,1,4,414,Potential Loyalists,Bengaluru,Male,Education
+CUST2350,55,1,101171.88,5,1,3,513,Potential Loyalists,Pune,Male,Electronics
+CUST2364,164,1,83149.52,3,1,2,312,Potential Loyalists,Hyderabad,Female,Grocery
+CUST2369,157,1,64307.52,3,1,2,312,Potential Loyalists,Mumbai,Male,Furniture
+CUST2378,178,1,19026.35,3,1,1,311,Potential Loyalists,Hyderabad,Male,Fashion
+CUST2384,326,1,30394.74,1,1,1,111,Lost,Gaya,Male,Electronics
+CUST2394,186,1,299334.78,3,1,5,315,Potential Loyalists,Patna,Male,Grocery
+CUST2403,230,1,237978.32,2,1,4,214,Promising,Pune,Male,Electronics
+CUST2411,352,1,184045.4,1,1,4,114,Lost,Mumbai,Female,Electronics
+CUST2418,76,1,93055.86,4,1,3,413,Potential Loyalists,Gaya,Male,Furniture
+CUST2423,43,1,113778.84,5,1,3,513,Potential Loyalists,Hyderabad,Male,Electronics
+CUST2428,17,1,48123.87,5,1,2,512,Potential Loyalists,Mumbai,Female,Education
+CUST2448,310,1,148803.66,1,1,4,114,Lost,Kolkata,Female,Furniture
+CUST2457,337,1,43633.34,1,1,2,112,Lost,Kolkata,Male,Electronics
+CUST2463,273,1,248328.55,2,1,5,215,Promising,Bengaluru,Male,Electronics
+CUST2480,296,1,20740.93,1,1,1,111,Lost,Gaya,Female,Fashion
+CUST2482,267,1,354730.14,2,1,5,215,Promising,Mumbai,Male,Education
+CUST2515,24,3,431192.86,5,5,5,555,Champions,Hyderabad,Female,Electronics
+CUST2520,356,1,141401.85,1,1,3,113,Lost,Kolkata,Female,Electronics
+CUST2537,220,1,1005.21,2,1,1,211,Promising,Bengaluru,Female,Electronics
+CUST2542,58,1,431463.9,5,1,5,515,Potential Loyalists,Hyderabad,Male,Electronics
+CUST2551,337,1,61673.9,1,1,2,112,Lost,Patna,Male,Education
+CUST2562,72,1,437.34,4,1,1,411,Potential Loyalists,Bengaluru,Male,Grocery
+CUST2565,130,1,146098.6,4,1,4,414,Potential Loyalists,Hyderabad,Female,Fashion
+CUST2586,159,1,84954.25,3,1,2,312,Potential Loyalists,Pune,Male,Electronics
+CUST2589,173,1,84392.92,3,1,2,312,Potential Loyalists,Delhi,Male,Electronics
+CUST2597,152,1,287434.35,3,1,5,315,Potential Loyalists,Kolkata,Male,Electronics
+CUST2599,312,1,134115.7,1,1,3,113,Lost,Mumbai,Male,Electronics
+CUST2604,343,1,51372.25,1,1,2,112,Lost,Kolkata,Male,Electronics
+CUST2632,360,1,67601.66,1,1,2,112,Lost,Kolkata,Male,Electronics
+CUST2644,180,1,175457.4,3,1,4,314,Potential Loyalists,Pune,Male,Furniture
+CUST2650,140,1,162226.4,4,1,4,414,Potential Loyalists,Kolkata,Female,Furniture
+CUST2661,324,1,252904.44,1,1,5,115,Lost,Delhi,Male,Electronics
+CUST2669,329,1,359291.92,1,1,5,115,Lost,Bengaluru,Male,Electronics
+CUST2671,285,1,23398.57,2,1,1,211,Promising,Delhi,Male,Fashion
+CUST2672,182,1,191186.12,3,1,4,314,Potential Loyalists,Pune,Female,Electronics
+CUST2680,156,1,124790.55,3,1,3,313,Potential Loyalists,Patna,Female,Education
+CUST2687,71,1,49496.16,4,1,2,412,Potential Loyalists,Hyderabad,Female,Education
+CUST2690,47,1,66608.34,5,1,2,512,Potential Loyalists,Delhi,Male,Education
+CUST2697,147,1,83144.7,3,1,2,312,Potential Loyalists,Hyderabad,Male,Education
+CUST2705,69,1,124270.25,4,1,3,413,Potential Loyalists,Kolkata,Male,Electronics
+CUST2708,287,1,189759.6,2,1,4,214,Promising,Delhi,Male,Education
+CUST2714,254,1,202444.83,2,1,4,214,Promising,Gaya,Female,Furniture
+CUST2742,272,1,107330.05,2,1,3,213,Promising,Delhi,Female,Grocery
+CUST2744,254,1,76084.8,2,1,2,212,Promising,Bengaluru,Male,Electronics
+CUST2757,10,1,64048.05,5,1,2,512,Potential Loyalists,Patna,Male,Electronics
+CUST2777,308,1,174736.89,1,1,4,114,Lost,Gaya,Male,Electronics
+CUST2779,10,1,178648.82,5,1,4,514,Potential Loyalists,Patna,Female,Grocery
+CUST2791,26,1,246944.64,5,1,5,515,Potential Loyalists,Bengaluru,Female,Electronics
+CUST2793,101,1,115263.96,4,1,3,413,Potential Loyalists,Gaya,Female,Electronics
+CUST2794,15,2,284872.06,5,5,5,555,Champions,Mumbai,Female,Electronics
+CUST2796,106,1,147307.52,4,1,4,414,Potential Loyalists,Patna,Male,Education
+CUST2804,274,1,90508.14,2,1,3,213,Promising,Pune,Female,Electronics
+CUST2812,218,1,767.61,2,1,1,211,Promising,Gaya,Male,Furniture
+CUST2827,154,1,84805.75,3,1,2,312,Potential Loyalists,Hyderabad,Male,Education
+CUST2832,323,1,162512.76,1,1,4,114,Lost,Pune,Male,Furniture
+CUST2834,265,1,270821.34,2,1,5,215,Promising,Kolkata,Male,Grocery
+CUST2835,190,1,65413.26,3,1,2,312,Potential Loyalists,Kolkata,Male,Furniture
+CUST2836,56,1,144754.88,5,1,4,514,Potential Loyalists,Patna,Female,Fashion
+CUST2859,22,1,161565.2,5,1,4,514,Potential Loyalists,Kolkata,Female,Grocery
+CUST2862,103,1,74724.16,4,1,2,412,Potential Loyalists,Bengaluru,Male,Grocery
+CUST2863,326,1,132772.22,1,1,3,113,Lost,Patna,Female,Electronics
+CUST2867,6,1,257759.6,5,1,5,515,Potential Loyalists,Hyderabad,Male,Fashion
+CUST2870,79,2,211801.52,4,5,4,454,Champions,Patna,Female,Education
+CUST2871,106,1,147500.76,4,2,4,424,Potential Loyalists,Delhi,Female,Furniture
+CUST2903,90,1,107774.59,4,2,3,423,Potential Loyalists,Mumbai,Female,Education
+CUST2904,142,1,412680.6,4,2,5,425,Potential Loyalists,Bengaluru,Female,Fashion
+CUST2921,296,1,139876.08,1,2,3,123,Promising,Patna,Male,Fashion
+CUST2935,332,1,30364.5,1,2,1,121,Promising,Delhi,Male,Electronics
+CUST2953,312,1,220868.4,1,2,4,124,Promising,Kolkata,Female,Grocery
+CUST2956,90,1,132611.45,4,2,3,423,Potential Loyalists,Patna,Male,Furniture
+CUST2967,175,1,36396.7,3,2,1,321,Potential Loyalists,Mumbai,Female,Furniture
+CUST2969,243,1,237972.6,2,2,4,224,Promising,Kolkata,Male,Grocery
+CUST2997,110,1,34192.3,4,2,1,421,Potential Loyalists,Hyderabad,Female,Electronics
+CUST3001,117,2,14067.77,4,5,1,451,Loyal Customers,Delhi,Female,Education
+CUST3002,44,1,219937.28,5,2,4,524,Potential Loyalists,Mumbai,Male,Education
+CUST3004,239,1,3971.35,2,2,1,221,Promising,Pune,Female,Fashion
+CUST3006,102,2,351367.34,4,5,5,455,Champions,Hyderabad,Male,Furniture
+CUST3023,117,1,368979.6,4,2,5,425,Potential Loyalists,Gaya,Female,Fashion
+CUST3024,220,1,242884.38,2,2,5,225,Promising,Patna,Female,Electronics
+CUST3044,241,1,318554.4,2,2,5,225,Promising,Bengaluru,Female,Grocery
+CUST3054,217,1,63845.1,2,2,2,222,Promising,Mumbai,Female,Furniture
+CUST3059,281,1,234450.42,2,2,4,224,Promising,Patna,Male,Fashion
+CUST3075,323,1,8162.84,1,2,1,121,Promising,Bengaluru,Male,Electronics
+CUST3078,123,1,76256.64,4,2,2,422,Potential Loyalists,Gaya,Male,Grocery
+CUST3080,244,1,43789.89,2,2,2,222,Promising,Pune,Female,Furniture
+CUST3089,17,1,139534.08,5,2,3,523,Potential Loyalists,Kolkata,Female,Electronics
+CUST3094,164,1,343480.48,3,2,5,325,Potential Loyalists,Bengaluru,Female,Electronics
+CUST3107,280,1,28766.56,2,2,1,221,Promising,Kolkata,Female,Electronics
+CUST3127,80,1,139530.8,4,2,3,423,Potential Loyalists,Bengaluru,Male,Education
+CUST3129,90,1,376842.87,4,2,5,425,Potential Loyalists,Hyderabad,Male,Education
+CUST3138,194,1,104971.05,3,2,3,323,Potential Loyalists,Mumbai,Female,Grocery
+CUST3169,13,1,138808.11,5,2,3,523,Potential Loyalists,Delhi,Female,Electronics
+CUST3186,285,1,156219.8,2,2,4,224,Promising,Delhi,Female,Electronics
+CUST3189,83,1,69219.64,4,2,2,422,Potential Loyalists,Kolkata,Female,Education
+CUST3194,345,1,51591.1,1,2,2,122,Promising,Kolkata,Male,Education
+CUST3210,353,1,122561.37,1,2,3,123,Promising,Mumbai,Female,Electronics
+CUST3212,146,1,42764.32,3,2,2,322,Potential Loyalists,Gaya,Male,Grocery
+CUST3228,245,1,283052.58,2,2,5,225,Promising,Patna,Female,Furniture
+CUST3237,18,1,270087.16,5,2,5,525,Potential Loyalists,Kolkata,Female,Grocery
+CUST3260,5,1,110900.34,5,2,3,523,Potential Loyalists,Mumbai,Male,Education
+CUST3264,30,1,42437.1,5,2,2,522,Potential Loyalists,Gaya,Female,Electronics
+CUST3265,74,1,97693.35,4,2,3,423,Potential Loyalists,Gaya,Male,Grocery
+CUST3277,351,1,190335.12,1,2,4,124,Promising,Gaya,Female,Electronics
+CUST3281,93,1,190106.9,4,2,4,424,Potential Loyalists,Pune,Female,Electronics
+CUST3285,213,1,392423.76,3,2,5,325,Potential Loyalists,Mumbai,Female,Electronics
+CUST3297,237,1,40350.67,2,2,2,222,Promising,Gaya,Male,Electronics
+CUST3298,173,1,72667.0,3,2,2,322,Potential Loyalists,Kolkata,Female,Grocery
+CUST3316,264,1,261998.08,2,2,5,225,Promising,Patna,Female,Education
+CUST3321,174,1,62003.61,3,2,2,322,Potential Loyalists,Bengaluru,Female,Electronics
+CUST3327,43,1,90435.84,5,2,3,523,Potential Loyalists,Pune,Female,Electronics
+CUST3330,188,1,162554.32,3,2,4,324,Potential Loyalists,Hyderabad,Female,Electronics
+CUST3341,94,1,186519.72,4,2,4,424,Potential Loyalists,Gaya,Male,Electronics
+CUST3345,324,1,58809.5,1,2,2,122,Promising,Gaya,Female,Education
+CUST3365,130,1,119390.88,4,2,3,423,Potential Loyalists,Delhi,Male,Electronics
+CUST3366,63,2,360570.11,5,5,5,555,Champions,Delhi,Male,Electronics
+CUST3393,115,1,108717.45,4,2,3,423,Potential Loyalists,Hyderabad,Female,Electronics
+CUST3397,300,1,26461.65,1,2,1,121,Promising,Gaya,Male,Furniture
+CUST3417,328,1,252084.4,1,2,5,125,Promising,Patna,Male,Electronics
+CUST3418,219,1,1229.02,2,2,1,221,Promising,Gaya,Female,Electronics
+CUST3430,176,1,215754.42,3,2,4,324,Potential Loyalists,Kolkata,Female,Electronics
+CUST3438,51,1,148435.74,5,2,4,524,Potential Loyalists,Patna,Male,Fashion
+CUST3440,179,1,33098.3,3,2,1,321,Potential Loyalists,Pune,Female,Electronics
+CUST3459,154,1,88586.31,3,2,3,323,Potential Loyalists,Pune,Male,Electronics
+CUST3464,243,1,172829.92,2,2,4,224,Promising,Bengaluru,Female,Education
+CUST3473,292,1,18903.96,1,2,1,121,Promising,Hyderabad,Male,Education
+CUST3497,236,1,119906.32,2,2,3,223,Promising,Patna,Male,Electronics
+CUST3499,173,1,40383.06,3,2,2,322,Potential Loyalists,Mumbai,Male,Furniture
+CUST3508,49,2,192315.52000000002,5,5,4,554,Champions,Gaya,Female,Electronics
+CUST3522,347,1,30869.01,1,2,1,121,Promising,Bengaluru,Male,Furniture
+CUST3537,260,1,141646.92,2,2,3,223,Promising,Pune,Female,Furniture
+CUST3542,315,1,47618.43,1,2,2,122,Promising,Patna,Male,Electronics
+CUST3564,209,1,444513.78,3,2,5,325,Potential Loyalists,Patna,Male,Grocery
+CUST3566,320,1,178545.48,1,2,4,124,Promising,Patna,Female,Electronics
+CUST3567,177,1,300593.16,3,2,5,325,Potential Loyalists,Bengaluru,Male,Furniture
+CUST3576,275,1,321187.65,2,2,5,225,Promising,Hyderabad,Male,Electronics
+CUST3580,246,1,89124.8,2,2,3,223,Promising,Gaya,Female,Electronics
+CUST3602,212,1,67401.84,3,2,2,322,Potential Loyalists,Pune,Male,Electronics
+CUST3603,251,1,15061.67,2,2,1,221,Promising,Delhi,Female,Grocery
+CUST3607,95,1,105764.6,4,2,3,423,Potential Loyalists,Patna,Female,Education
+CUST3618,178,1,330723.9,3,2,5,325,Potential Loyalists,Pune,Male,Electronics
+CUST3623,183,1,338531.22,3,2,5,325,Potential Loyalists,Mumbai,Male,Electronics
+CUST3625,310,1,105841.56,1,2,3,123,Promising,Kolkata,Female,Electronics
+CUST3652,75,1,21496.95,4,2,1,421,Potential Loyalists,Hyderabad,Male,Education
+CUST3662,352,1,14919.85,1,2,1,121,Promising,Hyderabad,Female,Electronics
+CUST3668,62,1,280078.14,5,2,5,525,Potential Loyalists,Patna,Male,Electronics
+CUST3677,203,1,17041.21,3,2,1,321,Potential Loyalists,Patna,Female,Fashion
+CUST3679,228,1,239465.0,2,2,4,224,Promising,Patna,Male,Fashion
+CUST3682,50,1,144829.17,5,2,4,524,Potential Loyalists,Kolkata,Female,Education
+CUST3685,68,1,35489.21,5,2,1,521,Potential Loyalists,Delhi,Female,Furniture
+CUST3688,331,1,213936.9,1,2,4,124,Promising,Bengaluru,Female,Electronics
+CUST3689,209,2,542484.08,3,5,5,355,Loyal Customers,Delhi,Female,Electronics
+CUST3690,22,1,102479.94,5,2,3,523,Potential Loyalists,Delhi,Female,Education
+CUST3714,120,1,165724.79,4,2,4,424,Potential Loyalists,Patna,Female,Grocery
+CUST3723,320,1,16453.6,1,2,1,121,Promising,Kolkata,Male,Electronics
+CUST3730,168,2,538633.97,3,5,5,355,Loyal Customers,Gaya,Female,Furniture
+CUST3741,25,1,48583.48,5,2,2,522,Potential Loyalists,Mumbai,Female,Electronics
+CUST3744,215,1,93190.71,3,2,3,323,Potential Loyalists,Mumbai,Female,Fashion
+CUST3745,120,1,217666.56,4,2,4,424,Potential Loyalists,Hyderabad,Female,Electronics
+CUST3747,300,1,23973.18,1,2,1,121,Promising,Mumbai,Female,Electronics
+CUST3751,23,1,69239.88,5,2,2,522,Potential Loyalists,Bengaluru,Male,Fashion
+CUST3759,267,1,301283.73,2,2,5,225,Promising,Mumbai,Female,Grocery
+CUST3760,119,1,41626.11,4,2,2,422,Potential Loyalists,Bengaluru,Female,Fashion
+CUST3763,29,2,294488.9,5,5,5,555,Champions,Delhi,Female,Fashion
+CUST3767,10,1,1981.7,5,2,1,521,Potential Loyalists,Hyderabad,Female,Furniture
+CUST3773,163,2,412403.57999999996,3,5,5,355,Loyal Customers,Patna,Female,Furniture
+CUST3778,326,1,47848.0,1,2,2,122,Promising,Bengaluru,Female,Fashion
+CUST3794,175,1,103917.5,3,2,3,323,Potential Loyalists,Hyderabad,Female,Education
+CUST3809,40,1,51282.42,5,2,2,522,Potential Loyalists,Gaya,Female,Education
+CUST3820,237,1,100104.3,2,2,3,223,Promising,Delhi,Female,Grocery
+CUST3835,104,1,144095.7,4,2,4,424,Potential Loyalists,Delhi,Male,Education
+CUST3839,360,1,410547.2,1,2,5,125,Promising,Bengaluru,Male,Electronics
+CUST3843,181,1,37727.1,3,2,1,321,Potential Loyalists,Bengaluru,Female,Electronics
+CUST3850,95,1,122047.5,4,2,3,423,Potential Loyalists,Kolkata,Female,Furniture
+CUST3851,92,1,29862.4,4,2,1,421,Potential Loyalists,Delhi,Male,Electronics
+CUST3867,250,1,25348.95,2,2,1,221,Promising,,Female,Electronics
+CUST3877,7,1,85323.78,5,2,2,522,Potential Loyalists,Delhi,Male,Electronics
+CUST3887,68,1,169196.64,5,2,4,524,Potential Loyalists,Mumbai,Female,Electronics
+CUST3891,306,1,150743.16,1,2,4,124,Promising,Mumbai,Male,Electronics
+CUST3911,158,1,81607.25,3,2,2,322,Potential Loyalists,Gaya,Female,Fashion
+CUST3948,259,1,116728.5,2,2,3,223,Promising,Hyderabad,Male,Furniture
+CUST3952,2,1,323527.23,5,2,5,525,Potential Loyalists,Hyderabad,Female,Electronics
+CUST3966,27,1,120078.24,5,2,3,523,Potential Loyalists,Hyderabad,Female,Furniture
+CUST3972,46,1,240883.83,5,2,4,524,Potential Loyalists,Gaya,Male,Grocery
+CUST3987,283,1,330496.47,2,2,5,225,Promising,Pune,Female,Grocery
+CUST4002,244,1,234114.2,2,2,4,224,Promising,Gaya,Female,Electronics
+CUST4003,278,1,468522.0,2,2,5,225,Promising,Bengaluru,Female,Grocery
+CUST4009,341,1,43713.28,1,2,2,122,Promising,Hyderabad,Male,Grocery
+CUST4034,186,1,85717.2,3,2,2,322,Potential Loyalists,Kolkata,Female,Electronics
+CUST4037,242,1,470798.6,2,2,5,225,Promising,Kolkata,Male,Electronics
+CUST4041,82,2,173329.08,4,5,4,454,Champions,Bengaluru,Female,Electronics
+CUST4062,237,1,8906.18,2,2,1,221,Promising,Mumbai,Female,Furniture
+CUST4073,229,1,92444.73,2,2,3,223,Promising,Pune,Female,Fashion
+CUST4077,151,1,109913.8,3,2,3,323,Potential Loyalists,Mumbai,Male,Electronics
+CUST4089,15,1,112630.77,5,2,3,523,Potential Loyalists,Gaya,Male,Fashion
+CUST4094,216,1,178309.16,2,2,4,224,Promising,Hyderabad,Male,Grocery
+CUST4099,151,1,208572.3,3,2,4,324,Potential Loyalists,Delhi,Female,Fashion
+CUST4103,63,1,63588.21,5,2,2,522,Potential Loyalists,Pune,Male,Grocery
+CUST4106,86,1,299498.92,4,2,5,425,Potential Loyalists,Gaya,Male,Grocery
+CUST4109,361,1,221067.8,1,2,4,124,Promising,Delhi,Female,Grocery
+CUST4110,329,1,360621.09,1,2,5,125,Promising,Kolkata,Female,Grocery
+CUST4112,112,1,51766.12,4,2,2,422,Potential Loyalists,Kolkata,Female,Fashion
+CUST4132,276,1,7894.56,2,2,1,221,Promising,,Female,Furniture
+CUST4137,124,2,333360.55,4,5,5,455,Champions,Gaya,Male,Electronics
+CUST4150,282,1,359892.18,2,2,5,225,Promising,Delhi,Female,Education
+CUST4167,131,1,249899.04,4,2,5,425,Potential Loyalists,Kolkata,Female,Electronics
+CUST4169,306,1,25982.0,1,2,1,121,Promising,Hyderabad,Female,Grocery
+CUST4215,165,1,110511.99,3,2,3,323,Potential Loyalists,Delhi,Male,Fashion
+CUST4229,131,1,136626.6,4,2,3,423,Potential Loyalists,Hyderabad,Male,Education
+CUST4264,48,1,278427.28,5,2,5,525,Potential Loyalists,Patna,Female,Electronics
+CUST4269,195,1,187463.04,3,2,4,324,Potential Loyalists,Gaya,Female,Electronics
+CUST4270,24,1,458774.9,5,2,5,525,Potential Loyalists,Kolkata,Male,Education
+CUST4284,308,1,30640.69,1,2,1,121,Promising,Patna,Male,Electronics
+CUST4317,260,1,144969.64,2,2,4,224,Promising,Delhi,Female,Education
+CUST4337,261,1,55976.48,2,2,2,222,Promising,Kolkata,Female,Electronics
+CUST4363,33,1,401091.2,5,2,5,525,Potential Loyalists,Delhi,Female,Education
+CUST4381,358,1,135764.76,1,2,3,123,Promising,Kolkata,Female,Electronics
+CUST4391,21,1,197421.55,5,2,4,524,Potential Loyalists,Hyderabad,Male,Electronics
+CUST4414,357,1,15617.29,1,2,1,121,Promising,Delhi,Female,Education
+CUST4417,241,1,6280.83,2,2,1,221,Promising,Mumbai,Male,Electronics
+CUST4420,137,1,13705.83,4,2,1,421,Potential Loyalists,Gaya,Male,Furniture
+CUST4431,187,1,30519.5,3,2,1,321,Potential Loyalists,Gaya,Male,Furniture
+CUST4438,316,1,29540.26,1,2,1,121,Promising,Kolkata,Female,Furniture
+CUST4457,247,1,110260.04,2,2,3,223,Promising,Hyderabad,Female,Electronics
+CUST4482,209,1,421025.22,3,2,5,325,Potential Loyalists,Pune,Male,Electronics
+CUST4483,159,1,370228.72,3,2,5,325,Potential Loyalists,Patna,Female,Education
+CUST4488,268,1,47539.35,2,2,2,222,Promising,Kolkata,Female,Electronics
+CUST4496,296,1,333687.41,1,2,5,125,Promising,Bengaluru,Female,Furniture
+CUST4515,158,1,78848.08,3,2,2,322,Potential Loyalists,Hyderabad,Female,Grocery
+CUST4527,194,1,210037.8,3,2,4,324,Potential Loyalists,Mumbai,Male,Education
+CUST4532,309,1,210571.1,1,2,4,124,Promising,Pune,Male,Fashion
+CUST4537,122,1,167620.15,4,2,4,424,Potential Loyalists,Gaya,Male,Education
+CUST4553,362,1,165937.8,1,2,4,124,Promising,Kolkata,Female,Furniture
+CUST4559,217,1,52501.23,2,2,2,222,Promising,Bengaluru,Female,Electronics
+CUST4565,26,1,23886.69,5,2,1,521,Potential Loyalists,Delhi,Female,Grocery
+CUST4569,8,1,419975.28,5,2,5,525,Potential Loyalists,Patna,Male,Electronics
+CUST4584,80,1,462701.3,4,2,5,425,Potential Loyalists,Pune,Female,Fashion
+CUST4598,168,1,66336.0,3,2,2,322,Potential Loyalists,Patna,Female,Fashion
+CUST4601,138,1,5053.68,4,2,1,421,Potential Loyalists,Hyderabad,Female,Education
+CUST4602,33,1,6430.22,5,2,1,521,Potential Loyalists,Pune,Female,Furniture
+CUST4625,314,1,306956.37,1,2,5,125,Promising,Gaya,Female,Education
+CUST4629,327,1,75833.37,1,2,2,122,Promising,Patna,Female,Electronics
+CUST4646,8,1,190160.1,5,2,4,524,Potential Loyalists,Bengaluru,Female,Grocery
+CUST4650,56,1,143752.47,5,2,3,523,Potential Loyalists,Delhi,Male,Fashion
+CUST4651,301,1,99449.28,1,2,3,123,Promising,Kolkata,Male,Electronics
+CUST4655,78,1,239811.81,4,2,4,424,Potential Loyalists,Kolkata,Male,Fashion
+CUST4673,126,1,81396.85,4,2,2,422,Potential Loyalists,Delhi,Female,Fashion
+CUST4685,269,1,241032.51,2,2,4,224,Promising,Gaya,Male,Grocery
+CUST4686,198,1,290918.72,3,2,5,325,Potential Loyalists,Pune,Male,Grocery
+CUST4703,30,1,158544.6,5,2,4,524,Potential Loyalists,Patna,Male,Electronics
+CUST4705,168,1,29838.32,3,2,1,321,Potential Loyalists,Hyderabad,Female,Fashion
+CUST4706,1,2,528036.44,5,5,5,555,Champions,Bengaluru,Female,Electronics
+CUST4722,71,1,217967.64,4,2,4,424,Potential Loyalists,Bengaluru,Male,Furniture
+CUST4730,61,1,203288.64,5,2,4,524,Potential Loyalists,Patna,Female,Electronics
+CUST4737,113,1,180858.3,4,2,4,424,Potential Loyalists,Patna,Female,Education
+CUST4742,88,1,74556.42,4,2,2,422,Potential Loyalists,Kolkata,Male,Electronics
+CUST4747,185,1,102099.33,3,2,3,323,Potential Loyalists,Gaya,Male,Electronics
+CUST4750,122,1,95299.22,4,2,3,423,Potential Loyalists,Delhi,Female,Electronics
+CUST4751,34,1,243462.6,5,2,5,525,Potential Loyalists,Patna,Male,Grocery
+CUST4756,109,2,19079.68,4,5,1,451,Loyal Customers,Bengaluru,Female,Education
+CUST4758,162,1,66288.95,3,2,2,322,Potential Loyalists,Pune,Male,Electronics
+CUST4777,234,1,21001.73,2,2,1,221,Promising,Gaya,Female,Electronics
+CUST4796,43,1,140365.9,5,2,3,523,Potential Loyalists,Bengaluru,Male,Grocery
+CUST4810,237,1,97167.28,2,2,3,223,Promising,Kolkata,Male,Fashion
+CUST4824,342,1,226245.78,1,2,4,124,Promising,Gaya,Male,Electronics
+CUST4829,111,1,333996.4,4,3,5,435,Loyal Customers,Mumbai,Female,Fashion
+CUST4845,45,1,2599.12,5,3,1,531,Loyal Customers,Mumbai,Male,Furniture
+CUST4849,362,1,28812.06,1,3,1,131,At Risk,Patna,Male,Grocery
+CUST4869,158,1,485667.8,3,3,5,335,Loyal Customers,Kolkata,Male,Electronics
+CUST4881,146,1,5629.1,3,3,1,331,Loyal Customers,Patna,Male,Education
+CUST4888,202,1,40275.15,3,3,2,332,Loyal Customers,Pune,Male,Fashion
+CUST4901,49,1,47545.23,5,3,2,532,Loyal Customers,Mumbai,Female,Grocery
+CUST4926,37,1,13050.5,5,3,1,531,Loyal Customers,Delhi,Male,Education
+CUST4934,296,1,318588.55,1,3,5,135,At Risk,Bengaluru,Male,Grocery
+CUST4941,336,1,60395.06,1,3,2,132,At Risk,Mumbai,Female,Furniture
+CUST4943,236,1,12420.48,2,3,1,231,At Risk,Mumbai,Male,Grocery
+CUST4947,358,1,37605.65,1,3,1,131,At Risk,Bengaluru,Male,Furniture
+CUST4958,197,1,25717.95,3,3,1,331,Loyal Customers,Gaya,Male,Grocery
+CUST4966,129,1,8286.54,4,3,1,431,Loyal Customers,Bengaluru,Female,Furniture
+CUST4973,106,1,42500.65,4,3,2,432,Loyal Customers,Kolkata,Male,Fashion
+CUST4977,348,1,200969.45,1,3,4,134,At Risk,Mumbai,Male,Furniture
+CUST4979,200,1,51456.6,3,3,2,332,Loyal Customers,Mumbai,Male,Education
+CUST4982,206,1,439972.2,3,3,5,335,Loyal Customers,Delhi,Male,Electronics
+CUST4996,12,2,257757.48,5,5,5,555,Champions,Delhi,Female,Education
+CUST4997,165,1,45063.04,3,3,2,332,Loyal Customers,Hyderabad,Male,Education
+CUST5005,14,1,174940.92,5,3,4,534,Loyal Customers,Kolkata,Female,Education
+CUST5010,157,1,124324.34,3,3,3,333,Loyal Customers,Pune,Female,Grocery
+CUST5025,243,1,20875.52,2,3,1,231,At Risk,Patna,Female,Education
+CUST5036,305,1,299490.08,1,3,5,135,At Risk,Patna,Male,Furniture
+CUST5057,208,1,30227.94,3,3,1,331,Loyal Customers,Patna,Female,Fashion
+CUST5063,234,1,15831.03,2,3,1,231,At Risk,Mumbai,Female,Electronics
+CUST5079,72,1,267836.96,4,3,5,435,Loyal Customers,Bengaluru,Female,Furniture
+CUST5091,317,1,213995.1,1,3,4,134,At Risk,Bengaluru,Male,Grocery
+CUST5097,238,1,185571.72,2,3,4,234,At Risk,Mumbai,Female,Electronics
+CUST5102,257,1,78808.86,2,3,2,232,At Risk,Hyderabad,Female,Education
+CUST5113,320,1,199283.0,1,3,4,134,At Risk,Kolkata,Female,Electronics
+CUST5128,276,1,242216.48,2,3,5,235,At Risk,Bengaluru,Male,Grocery
+CUST5129,107,1,219522.18,4,3,4,434,Loyal Customers,Bengaluru,Male,Education
+CUST5133,146,1,19382.82,3,3,1,331,Loyal Customers,Pune,Female,Electronics
+CUST5136,125,1,16506.48,4,3,1,431,Loyal Customers,Mumbai,Male,Grocery
+CUST5151,182,1,86394.66,3,3,2,332,Loyal Customers,Bengaluru,Female,Grocery
+CUST5154,354,1,76131.68,1,3,2,132,At Risk,Mumbai,Male,Education
+CUST5155,328,1,172543.0,1,3,4,134,At Risk,Bengaluru,Male,Electronics
+CUST5160,9,1,1961.91,5,3,1,531,Loyal Customers,Delhi,Female,Education
+CUST5168,211,1,54797.1,3,3,2,332,Loyal Customers,Hyderabad,Male,Electronics
+CUST5178,215,1,109792.04,3,3,3,333,Loyal Customers,Mumbai,Male,Education
+CUST5188,328,1,439499.43,1,3,5,135,At Risk,Gaya,Male,Electronics
+CUST5206,11,1,65107.76,5,3,2,532,Loyal Customers,Patna,Female,Education
+CUST5211,290,1,191167.55,1,3,4,134,At Risk,Patna,Female,Education
+CUST5214,197,1,86438.08,3,3,2,332,Loyal Customers,Patna,Female,Furniture
+CUST5232,323,1,62434.24,1,3,2,132,At Risk,Gaya,Male,Electronics
+CUST5233,116,1,48906.12,4,3,2,432,Loyal Customers,Mumbai,Male,Education
+CUST5240,88,1,92846.81,4,3,3,433,Loyal Customers,Patna,Male,Electronics
+CUST5244,281,1,207547.7,2,3,4,234,At Risk,Pune,Male,Grocery
+CUST5249,28,1,116373.8,5,3,3,533,Loyal Customers,Pune,Male,Fashion
+CUST5295,156,1,120358.95,3,3,3,333,Loyal Customers,Kolkata,Female,Education
+CUST5318,210,1,93084.36,3,3,3,333,Loyal Customers,Bengaluru,Male,Fashion
+CUST5319,45,1,138242.6,5,3,3,533,Loyal Customers,Mumbai,Female,Electronics
+CUST5338,218,1,140731.05,2,3,3,233,At Risk,Patna,Female,Fashion
+CUST5355,288,1,47542.0,2,3,2,232,At Risk,Delhi,Male,Grocery
+CUST5363,45,2,265314.63,5,5,5,555,Champions,Delhi,Female,Fashion
+CUST5367,123,1,35099.34,4,3,1,431,Loyal Customers,Hyderabad,Female,Education
+CUST5373,78,1,25737.43,4,3,1,431,Loyal Customers,Delhi,Male,Fashion
+CUST5375,297,1,36587.92,1,3,1,131,At Risk,Bengaluru,Male,Education
+CUST5386,231,1,244476.54,2,3,5,235,At Risk,Gaya,Male,Grocery
+CUST5389,36,1,58707.36,5,3,2,532,Loyal Customers,Mumbai,Female,Fashion
+CUST5406,112,1,47545.65,4,3,2,432,Loyal Customers,Kolkata,Male,Electronics
+CUST5413,20,1,217109.48,5,3,4,534,Loyal Customers,Bengaluru,Male,Electronics
+CUST5415,63,1,12121.61,5,3,1,531,Loyal Customers,Delhi,Female,Fashion
+CUST5418,138,1,177852.72,4,3,4,434,Loyal Customers,Kolkata,Female,Education
+CUST5419,104,1,7179.39,4,3,1,431,Loyal Customers,Patna,Female,Education
+CUST5430,187,1,138761.82,3,3,3,333,Loyal Customers,Mumbai,Male,Fashion
+CUST5431,347,1,215478.9,1,3,4,134,At Risk,Mumbai,Female,Electronics
+CUST5432,55,1,15571.2,5,3,1,531,Loyal Customers,Patna,Male,Fashion
+CUST5433,350,1,100010.88,1,3,3,133,At Risk,Delhi,Male,Education
+CUST5454,344,1,308555.0,1,3,5,135,At Risk,Hyderabad,Female,Furniture
+CUST5455,291,1,86715.66,1,3,2,132,At Risk,Bengaluru,Male,Furniture
+CUST5468,47,1,299131.56,5,3,5,535,Loyal Customers,Bengaluru,Male,Electronics
+CUST5477,84,1,284448.64,4,3,5,435,Loyal Customers,Kolkata,Female,Electronics
+CUST5505,357,1,210141.3,1,3,4,134,At Risk,Bengaluru,Female,Education
+CUST5516,256,1,211333.38,2,3,4,234,At Risk,Kolkata,Male,Grocery
+CUST5523,91,1,277513.83,4,3,5,435,Loyal Customers,Pune,Male,Furniture
+CUST5524,79,1,128419.56,4,3,3,433,Loyal Customers,Hyderabad,Male,Furniture
+CUST5529,311,1,19808.39,1,3,1,131,At Risk,Bengaluru,Female,Grocery
+CUST5535,77,1,81639.9,4,3,2,432,Loyal Customers,Gaya,Male,Grocery
+CUST5569,41,1,105715.35,5,3,3,533,Loyal Customers,Pune,Female,Fashion
+CUST5585,152,1,258727.23,3,3,5,335,Loyal Customers,Kolkata,Male,Furniture
+CUST5600,190,1,143878.14,3,3,3,333,Loyal Customers,Bengaluru,Male,Grocery
+CUST5605,139,1,126051.16,4,3,3,433,Loyal Customers,Kolkata,Female,Fashion
+CUST5607,134,1,13129.64,4,3,1,431,Loyal Customers,Gaya,Female,Grocery
+CUST5615,202,1,7583.96,3,3,1,331,Loyal Customers,Bengaluru,Female,Grocery
+CUST5621,80,1,134832.67,4,3,3,433,Loyal Customers,Delhi,Female,Fashion
+CUST5624,36,1,319922.96,5,3,5,535,Loyal Customers,Patna,Male,Electronics
+CUST5702,175,1,139084.8,3,3,3,333,Loyal Customers,Pune,Female,Education
+CUST5718,185,1,80473.4,3,3,2,332,Loyal Customers,Kolkata,Female,Fashion
+CUST5726,122,1,79157.2,4,3,2,432,Loyal Customers,Pune,Male,Electronics
+CUST5743,171,1,86401.08,3,3,2,332,Loyal Customers,Gaya,Male,Electronics
+CUST5762,74,1,31247.14,4,3,1,431,Loyal Customers,Mumbai,Female,Education
+CUST5766,345,1,226028.39,1,3,4,134,At Risk,Gaya,Male,Fashion
+CUST5778,272,1,72124.72,2,3,2,232,At Risk,Patna,Male,Fashion
+CUST5791,358,1,78010.54,1,3,2,132,At Risk,Patna,Male,Fashion
+CUST5806,162,2,143666.99,3,5,3,353,Loyal Customers,Bengaluru,Female,Education
+CUST5829,119,1,39956.16,4,3,2,432,Loyal Customers,Delhi,Male,Education
+CUST5835,241,1,56623.16,2,3,2,232,At Risk,,Male,Electronics
+CUST5851,233,1,83088.9,2,3,2,232,At Risk,Patna,Male,Electronics
+CUST5869,316,1,285227.53,1,3,5,135,At Risk,Delhi,Male,Furniture
+CUST5871,311,1,136832.9,1,3,3,133,At Risk,Delhi,Female,Furniture
+CUST5876,56,1,222899.82,5,3,4,534,Loyal Customers,Patna,Female,Electronics
+CUST5899,158,1,23158.0,3,3,1,331,Loyal Customers,Gaya,Female,Electronics
+CUST5903,251,1,13424.67,2,3,1,231,At Risk,Hyderabad,Female,Fashion
+CUST5926,21,1,311180.64,5,3,5,535,Loyal Customers,Gaya,Male,Furniture
+CUST5932,186,1,74970.27,3,3,2,332,Loyal Customers,Gaya,Female,Grocery
+CUST5933,338,1,65068.15,1,3,2,132,At Risk,Mumbai,Male,Furniture
+CUST5945,332,1,200976.86,1,3,4,134,At Risk,Kolkata,Female,Fashion
+CUST5988,70,1,88672.76,4,3,3,433,Loyal Customers,Kolkata,Male,Furniture
+CUST6002,59,1,214875.81,5,3,4,534,Loyal Customers,Delhi,Male,Electronics
+CUST6006,258,1,186072.9,2,3,4,234,At Risk,Delhi,Male,Furniture
+CUST6028,283,1,82132.92,2,3,2,232,At Risk,Delhi,Male,Electronics
+CUST6037,354,1,3586.58,1,3,1,131,At Risk,Patna,Male,Electronics
+CUST6067,119,2,209823.08000000002,4,5,4,454,Champions,Kolkata,Male,Electronics
+CUST6082,70,2,548416.39,4,5,5,455,Champions,Mumbai,Female,Electronics
+CUST6096,328,1,197341.68,1,3,4,134,At Risk,Patna,Female,Fashion
+CUST6111,11,2,156256.16,5,5,4,554,Champions,Hyderabad,Female,Electronics
+CUST6116,177,1,86309.0,3,3,2,332,Loyal Customers,Gaya,Female,Furniture
+CUST6136,288,1,71273.3,2,3,2,232,At Risk,Hyderabad,Male,Furniture
+CUST6142,341,1,128393.8,1,3,3,133,At Risk,Patna,Male,Electronics
+CUST6149,145,1,72673.95,3,3,2,332,Loyal Customers,Patna,Female,Electronics
+CUST6152,73,1,118857.45,4,3,3,433,Loyal Customers,Bengaluru,Female,Electronics
+CUST6162,197,1,31849.44,3,3,1,331,Loyal Customers,Mumbai,Male,Electronics
+CUST6173,152,1,150268.72,3,3,4,334,Loyal Customers,Pune,Male,Electronics
+CUST6180,125,1,157078.86,4,3,4,434,Loyal Customers,Patna,Male,Electronics
+CUST6206,21,1,302455.37,5,3,5,535,Loyal Customers,Kolkata,Male,Education
+CUST6228,149,1,89287.2,3,3,3,333,Loyal Customers,Pune,Female,Education
+CUST6236,171,1,17039.73,3,3,1,331,Loyal Customers,Kolkata,Female,Electronics
+CUST6238,29,1,259301.0,5,3,5,535,Loyal Customers,Gaya,Male,Grocery
+CUST6241,322,1,18127.66,1,3,1,131,At Risk,Hyderabad,Male,Furniture
+CUST6258,171,1,40225.63,3,3,2,332,Loyal Customers,Pune,Male,Electronics
+CUST6260,253,1,105954.6,2,3,3,233,At Risk,Gaya,Male,Electronics
+CUST6279,212,1,256986.2,3,3,5,335,Loyal Customers,Kolkata,Female,Electronics
+CUST6288,351,1,17212.99,1,3,1,131,At Risk,Kolkata,Male,Electronics
+CUST6309,210,1,61486.2,3,3,2,332,Loyal Customers,Mumbai,Female,Grocery
+CUST6311,63,1,301320.63,5,3,5,535,Loyal Customers,Mumbai,Female,Education
+CUST6314,316,1,155811.12,1,3,4,134,At Risk,Gaya,Female,Grocery
+CUST6316,62,1,311126.04,5,3,5,535,Loyal Customers,Pune,Male,Electronics
+CUST6319,349,1,46629.03,1,3,2,132,At Risk,Bengaluru,Female,Fashion
+CUST6336,116,1,26771.99,4,3,1,431,Loyal Customers,Delhi,Male,Electronics
+CUST6340,109,1,21368.29,4,3,1,431,Loyal Customers,Gaya,Female,Grocery
+CUST6345,202,2,82147.94,3,5,2,352,Loyal Customers,Delhi,Female,Education
+CUST6348,254,1,92286.1,2,3,3,233,At Risk,Kolkata,Female,Electronics
+CUST6389,135,1,313519.95,4,3,5,435,Loyal Customers,Kolkata,Male,Furniture
+CUST6394,19,1,57013.62,5,3,2,532,Loyal Customers,Bengaluru,Female,Grocery
+CUST6407,5,2,315050.32,5,5,5,555,Champions,Delhi,Female,Electronics
+CUST6410,56,1,318649.86,5,3,5,535,Loyal Customers,Gaya,Male,Electronics
+CUST6413,253,1,96340.16,2,3,3,233,At Risk,Patna,Female,Fashion
+CUST6414,241,1,62429.88,2,3,2,232,At Risk,Delhi,Male,Electronics
+CUST6421,81,1,38696.65,4,3,2,432,Loyal Customers,Gaya,Male,Electronics
+CUST6432,231,1,46021.88,2,3,2,232,At Risk,Mumbai,Male,Education
+CUST6436,134,1,4418.86,4,3,1,431,Loyal Customers,Bengaluru,Male,Fashion
+CUST6442,89,1,429297.21,4,3,5,435,Loyal Customers,Kolkata,Male,Furniture
+CUST6444,118,1,259787.34,4,3,5,435,Loyal Customers,Mumbai,Female,Education
+CUST6467,325,1,318362.73,1,3,5,135,At Risk,Pune,Female,Grocery
+CUST6504,288,1,190162.88,2,3,4,234,At Risk,Kolkata,Male,Electronics
+CUST6511,121,1,54039.78,4,3,2,432,Loyal Customers,Mumbai,Male,Fashion
+CUST6518,130,1,177138.7,4,3,4,434,Loyal Customers,Hyderabad,Female,Fashion
+CUST6522,195,1,107317.63,3,3,3,333,Loyal Customers,Mumbai,Male,Education
+CUST6531,273,1,78327.66,2,3,2,232,At Risk,Kolkata,Male,Grocery
+CUST6532,133,2,610981.74,4,5,5,455,Champions,Hyderabad,Female,Grocery
+CUST6538,158,1,26611.8,3,3,1,331,Loyal Customers,Pune,Female,Electronics
+CUST6540,267,1,87368.96,2,3,2,232,At Risk,Kolkata,Male,Fashion
+CUST6564,310,1,142635.56,1,3,3,133,At Risk,Patna,Female,Electronics
+CUST6565,194,1,168646.62,3,3,4,334,Loyal Customers,Gaya,Female,Education
+CUST6571,22,1,75706.23,5,3,2,532,Loyal Customers,Pune,Female,Furniture
+CUST6578,358,1,19202.88,1,3,1,131,At Risk,Hyderabad,Female,Fashion
+CUST6584,281,1,296462.6,2,3,5,235,At Risk,Mumbai,Male,Electronics
+CUST6585,194,1,103625.84,3,3,3,333,Loyal Customers,Hyderabad,Male,Grocery
+CUST6589,106,1,70470.99,4,3,2,432,Loyal Customers,Kolkata,Male,Furniture
+CUST6600,301,1,439266.33,1,3,5,135,At Risk,Bengaluru,Female,Electronics
+CUST6618,249,1,230997.12,2,3,4,234,At Risk,Pune,Male,Fashion
+CUST6621,233,1,34477.47,2,3,1,231,At Risk,Mumbai,Female,Education
+CUST6625,273,1,121251.76,2,3,3,233,At Risk,Hyderabad,Male,Electronics
+CUST6627,353,1,248966.58,1,3,5,135,At Risk,Patna,Male,Grocery
+CUST6631,175,1,28924.68,3,3,1,331,Loyal Customers,Kolkata,Male,Education
+CUST6638,19,1,167313.48,5,3,4,534,Loyal Customers,Bengaluru,Male,Fashion
+CUST6654,104,1,15439.6,4,3,1,431,Loyal Customers,Pune,Female,Electronics
+CUST6655,91,1,3156.7,4,3,1,431,Loyal Customers,Pune,Female,Electronics
+CUST6658,44,1,285180.93,5,3,5,535,Loyal Customers,Patna,Male,Education
+CUST6678,16,1,28362.94,5,3,1,531,Loyal Customers,Kolkata,Male,Grocery
+CUST6684,286,1,193199.4,2,3,4,234,At Risk,Bengaluru,Male,Furniture
+CUST6697,111,1,75059.95,4,3,2,432,Loyal Customers,Pune,Male,Furniture
+CUST6704,4,2,452333.24,5,5,5,555,Champions,Mumbai,Female,Fashion
+CUST6706,322,1,45333.96,1,3,2,132,At Risk,Mumbai,Male,Electronics
+CUST6707,288,1,328896.4,2,3,5,235,At Risk,Pune,Male,Electronics
+CUST6714,323,1,439469.6,1,3,5,135,At Risk,,Female,Education
+CUST6719,363,1,45270.45,1,3,2,132,At Risk,Patna,Female,Education
+CUST6727,54,1,111865.08,5,3,3,533,Loyal Customers,Mumbai,Female,Electronics
+CUST6728,18,1,34757.71,5,3,1,531,Loyal Customers,Bengaluru,Male,Electronics
+CUST6748,82,1,396906.8,4,3,5,435,Loyal Customers,Patna,Female,Education
+CUST6752,78,1,59121.8,4,3,2,432,Loyal Customers,Kolkata,Male,Grocery
+CUST6762,339,1,10934.02,1,3,1,131,At Risk,Delhi,Male,Grocery
+CUST6773,270,1,132823.76,2,3,3,233,At Risk,Hyderabad,Male,Electronics
+CUST6780,211,1,269519.53,3,3,5,335,Loyal Customers,Hyderabad,Female,Education
+CUST6783,130,1,189183.33,4,3,4,434,Loyal Customers,Kolkata,Male,Education
+CUST6791,36,1,148740.85,5,3,4,534,Loyal Customers,Pune,Female,Furniture
+CUST6806,261,1,246529.68,2,3,5,235,At Risk,Pune,Male,Electronics
+CUST6814,226,1,56546.37,2,4,2,242,At Risk,Bengaluru,Male,Fashion
+CUST6815,192,1,16650.75,3,4,1,341,Loyal Customers,Patna,Female,Furniture
+CUST6821,203,1,274083.6,3,4,5,345,Loyal Customers,Pune,Male,Education
+CUST6828,282,1,127614.42,2,4,3,243,At Risk,Bengaluru,Male,Furniture
+CUST6845,1,2,769479.75,5,5,5,555,Champions,Hyderabad,Female,Fashion
+CUST6860,146,1,30210.72,3,4,1,341,Loyal Customers,Bengaluru,Male,Electronics
+CUST6862,2,1,95386.66,5,4,3,543,Loyal Customers,Patna,Female,Furniture
+CUST6870,223,1,70818.68,2,4,2,242,At Risk,Hyderabad,Female,Grocery
+CUST6881,44,1,297463.11,5,4,5,545,Champions,Delhi,Female,Electronics
+CUST6887,125,1,15733.65,4,4,1,441,Loyal Customers,Delhi,Male,Furniture
+CUST6921,115,1,11206.86,4,4,1,441,Loyal Customers,Patna,Female,Electronics
+CUST6927,177,1,86462.0,3,4,2,342,Loyal Customers,Gaya,Male,Furniture
+CUST6932,311,1,21090.24,1,4,1,141,At Risk,Kolkata,Male,Fashion
+CUST6933,279,1,125483.1,2,4,3,243,At Risk,Patna,Female,Grocery
+CUST6938,257,1,119662.88,2,4,3,243,At Risk,Kolkata,Female,Electronics
+CUST6944,60,1,34742.76,5,4,1,541,Loyal Customers,Gaya,Male,Education
+CUST6969,261,1,167677.65,2,4,4,244,At Risk,Hyderabad,Female,Grocery
+CUST6987,314,1,6976.56,1,4,1,141,At Risk,Gaya,Female,Grocery
+CUST6995,353,1,325425.87,1,4,5,145,At Risk,Hyderabad,Male,Education
+CUST6997,27,1,27593.6,5,4,1,541,Loyal Customers,Gaya,Male,Electronics
+CUST7016,179,1,184654.44,3,4,4,344,Loyal Customers,Pune,Female,Furniture
+CUST7026,25,2,262752.56,5,5,5,555,Champions,Bengaluru,Female,Electronics
+CUST7031,350,1,195199.8,1,4,4,144,At Risk,Gaya,Female,Fashion
+CUST7033,42,1,156203.52,5,4,4,544,Champions,Gaya,Male,Electronics
+CUST7037,18,1,405004.41,5,4,5,545,Champions,Mumbai,Male,Grocery
+CUST7042,208,1,70227.96,3,4,2,342,Loyal Customers,Kolkata,Male,Education
+CUST7059,208,1,13776.48,3,4,1,341,Loyal Customers,Delhi,Female,Electronics
+CUST7062,106,1,180509.76,4,4,4,444,Champions,Bengaluru,Male,Electronics
+CUST7065,272,1,241144.8,2,4,4,244,At Risk,Bengaluru,Female,Fashion
+CUST7068,32,1,292060.48,5,4,5,545,Champions,Hyderabad,Male,Education
+CUST7072,96,1,210619.12,4,4,4,444,Champions,Gaya,Female,Fashion
+CUST7082,241,1,100658.0,2,4,3,243,At Risk,Bengaluru,Female,Education
+CUST7091,38,1,237573.1,5,4,4,544,Champions,Mumbai,Female,Grocery
+CUST7093,182,1,237005.1,3,4,4,344,Loyal Customers,Mumbai,Male,Furniture
+CUST7104,55,1,245061.25,5,4,5,545,Champions,Mumbai,Male,Furniture
+CUST7110,253,1,3953.8,2,4,1,241,At Risk,Hyderabad,Male,Electronics
+CUST7117,314,1,39406.86,1,4,2,142,At Risk,Gaya,Female,Furniture
+CUST7152,124,1,106181.76,4,4,3,443,Loyal Customers,Patna,Female,Electronics
+CUST7164,18,1,282545.1,5,4,5,545,Champions,Pune,Male,Fashion
+CUST7173,61,1,47212.5,5,4,2,542,Loyal Customers,Hyderabad,Male,Electronics
+CUST7176,259,1,54990.9,2,4,2,242,At Risk,Bengaluru,Male,Furniture
+CUST7177,200,1,75415.95,3,4,2,342,Loyal Customers,Hyderabad,Male,Fashion
+CUST7178,107,1,16185.56,4,4,1,441,Loyal Customers,Bengaluru,Male,Furniture
+CUST7185,321,1,98255.31,1,4,3,143,At Risk,Delhi,Female,Furniture
+CUST7186,309,1,10625.65,1,4,1,141,At Risk,Mumbai,Female,Fashion
+CUST7187,363,1,16633.85,1,4,1,141,At Risk,Patna,Male,Electronics
+CUST7188,98,2,88709.25,4,5,3,453,Loyal Customers,Bengaluru,Male,Electronics
+CUST7196,129,1,267104.88,4,4,5,445,Champions,Delhi,Male,Furniture
+CUST7219,333,1,229527.7,1,4,4,144,At Risk,Pune,Male,Education
+CUST7221,151,1,15069.36,3,4,1,341,Loyal Customers,Gaya,Male,Electronics
+CUST7226,147,1,3859.08,3,4,1,341,Loyal Customers,Mumbai,Male,Electronics
+CUST7228,223,1,117472.56,2,4,3,243,At Risk,Bengaluru,Female,Fashion
+CUST7236,349,1,130323.36,1,4,3,143,At Risk,Gaya,Male,Education
+CUST7238,234,1,280228.24,2,4,5,245,At Risk,Delhi,Female,Electronics
+CUST7249,74,1,19176.32,4,4,1,441,Loyal Customers,Kolkata,Male,Grocery
+CUST7263,104,1,10851.3,4,4,1,441,Loyal Customers,Hyderabad,Male,Furniture
+CUST7277,51,1,291741.38,5,4,5,545,Champions,Mumbai,Female,Fashion
+CUST7283,238,1,98418.06,2,4,3,243,At Risk,Mumbai,Male,Fashion
+CUST7285,303,1,9639.44,1,4,1,141,At Risk,Hyderabad,Female,Education
+CUST7309,251,1,256457.76,2,4,5,245,At Risk,Delhi,Female,Education
+CUST7315,231,1,53794.02,2,4,2,242,At Risk,Mumbai,Female,Education
+CUST7317,82,2,138811.2,4,5,3,453,Loyal Customers,Delhi,Female,Education
+CUST7341,267,1,166562.96,2,4,4,244,At Risk,Hyderabad,Female,Electronics
+CUST7361,334,1,142398.54,1,4,3,143,At Risk,Hyderabad,Male,Electronics
+CUST7371,312,1,39342.98,1,4,2,142,At Risk,Bengaluru,Female,Electronics
+CUST7374,313,2,511309.4,1,5,5,155,At Risk,Mumbai,Female,Education
+CUST7388,203,1,267400.44,3,4,5,345,Loyal Customers,Hyderabad,Male,Grocery
+CUST7405,126,1,159668.96,4,4,4,444,Champions,Mumbai,Male,Fashion
+CUST7413,69,1,82021.25,4,4,2,442,Loyal Customers,Kolkata,Male,Electronics
+CUST7416,195,1,482551.9,3,4,5,345,Loyal Customers,Hyderabad,Female,Grocery
+CUST7445,80,1,321222.51,4,4,5,445,Champions,Bengaluru,Female,Fashion
+CUST7462,61,1,2768.1,5,4,1,541,Loyal Customers,Patna,Male,Electronics
+CUST7465,301,1,234167.84,1,4,4,144,At Risk,Bengaluru,Female,Fashion
+CUST7473,33,1,200523.55,5,4,4,544,Champions,Mumbai,Female,Grocery
+CUST7476,65,1,118002.51,5,4,3,543,Loyal Customers,Hyderabad,Female,Education
+CUST7484,70,1,223452.45,4,4,4,444,Champions,Gaya,Male,Education
+CUST7491,4,1,107697.64,5,4,3,543,Loyal Customers,Bengaluru,Female,Grocery
+CUST7494,198,1,107028.9,3,4,3,343,Loyal Customers,Mumbai,Female,Electronics
+CUST7501,37,1,51679.6,5,4,2,542,Loyal Customers,Gaya,Female,Grocery
+CUST7504,19,1,106265.28,5,4,3,543,Loyal Customers,Pune,Male,Electronics
+CUST7522,309,1,2070.65,1,4,1,141,At Risk,Kolkata,Female,Grocery
+CUST7544,261,1,350933.9,2,4,5,245,At Risk,Mumbai,Male,Education
+CUST7564,10,1,176483.04,5,4,4,544,Champions,Patna,Female,Education
+CUST7568,23,2,72887.06,5,5,2,552,Loyal Customers,Gaya,Female,Fashion
+CUST7574,116,1,38214.2,4,4,2,442,Loyal Customers,Delhi,Female,Furniture
+CUST7578,13,1,60346.48,5,4,2,542,Loyal Customers,Delhi,Female,Grocery
+CUST7587,29,1,408776.58,5,4,5,545,Champions,Pune,Male,Electronics
+CUST7588,89,1,27898.64,4,4,1,441,Loyal Customers,Pune,Male,Grocery
+CUST7600,84,1,42736.43,4,4,2,442,Loyal Customers,Pune,Male,Electronics
+CUST7609,44,1,154958.15,5,4,4,544,Champions,Pune,Female,Fashion
+CUST7613,27,1,394778.24,5,4,5,545,Champions,Mumbai,Male,Electronics
+CUST7615,110,1,163012.74,4,4,4,444,Champions,Patna,Male,Grocery
+CUST7618,121,1,92273.25,4,4,3,443,Loyal Customers,Gaya,Male,Fashion
+CUST7621,3,1,44751.42,5,4,2,542,Loyal Customers,Gaya,Female,Fashion
+CUST7625,285,1,17409.33,2,4,1,241,At Risk,Patna,Female,Education
+CUST7628,283,1,160299.54,2,4,4,244,At Risk,Bengaluru,Male,Furniture
+CUST7631,52,1,107745.36,5,4,3,543,Loyal Customers,Gaya,Female,Fashion
+CUST7650,349,1,347736.0,1,4,5,145,At Risk,Kolkata,Male,Education
+CUST7654,170,1,67132.4,3,4,2,342,Loyal Customers,Delhi,Male,Grocery
+CUST7659,267,1,49067.82,2,4,2,242,At Risk,Patna,Male,Furniture
+CUST7664,252,1,216126.48,2,4,4,244,At Risk,Delhi,Female,Fashion
+CUST7676,152,1,405225.6,3,4,5,345,Loyal Customers,Bengaluru,Female,Grocery
+CUST7718,143,1,374935.6,4,4,5,445,Champions,Delhi,Male,Electronics
+CUST7724,10,1,100442.24,5,4,3,543,Loyal Customers,Kolkata,Male,Education
+CUST7757,165,1,219795.57,3,4,4,344,Loyal Customers,Mumbai,Male,Electronics
+CUST7787,191,1,286879.52,3,4,5,345,Loyal Customers,Pune,Male,Education
+CUST7801,114,1,43373.54,4,4,2,442,Loyal Customers,Pune,Male,Furniture
+CUST7806,71,1,81537.0,4,4,2,442,Loyal Customers,Hyderabad,Female,Grocery
+CUST7814,165,1,331893.24,3,4,5,345,Loyal Customers,Bengaluru,Female,Fashion
+CUST7824,57,2,185204.61,5,5,4,554,Champions,Mumbai,Female,Grocery
+CUST7844,243,1,134060.64,2,4,3,243,At Risk,Patna,Male,Furniture
+CUST7863,11,1,202154.0,5,4,4,544,Champions,Gaya,Female,Furniture
+CUST7876,225,1,402956.64,2,4,5,245,At Risk,Bengaluru,Male,Fashion
+CUST7903,214,1,101295.36,3,4,3,343,Loyal Customers,Bengaluru,Female,Fashion
+CUST7911,301,1,142731.2,1,4,3,143,At Risk,Delhi,Male,Electronics
+CUST7933,50,1,91236.0,5,4,3,543,Loyal Customers,Bengaluru,Male,Grocery
+CUST7937,34,1,223776.99,5,4,4,544,Champions,Mumbai,Female,Furniture
+CUST7944,185,1,171571.86,3,4,4,344,Loyal Customers,,Male,Furniture
+CUST7981,85,1,1495.14,4,4,1,441,Loyal Customers,Mumbai,Male,Furniture
+CUST7988,256,1,3992.85,2,4,1,241,At Risk,Mumbai,Female,Fashion
+CUST8000,270,1,150898.88,2,4,4,244,At Risk,Kolkata,Male,Grocery
+CUST8010,1,1,141200.44,5,4,3,543,Loyal Customers,Hyderabad,Female,Grocery
+CUST8017,83,1,196003.1,4,4,4,444,Champions,Patna,Male,Furniture
+CUST8023,70,1,101845.28,4,4,3,443,Loyal Customers,Mumbai,Female,Fashion
+CUST8036,110,1,22254.12,4,4,1,441,Loyal Customers,Patna,Male,Electronics
+CUST8039,220,1,170899.98,2,4,4,244,At Risk,Kolkata,Female,Education
+CUST8049,130,1,130165.29,4,4,3,443,Loyal Customers,Delhi,Female,Electronics
+CUST8053,68,2,461478.98,5,5,5,555,Champions,Delhi,Female,Electronics
+CUST8058,356,1,146255.58,1,4,4,144,At Risk,Pune,Female,Education
+CUST8065,161,1,89054.9,3,4,3,343,Loyal Customers,Kolkata,Male,Electronics
+CUST8067,245,1,261456.84,2,4,5,245,At Risk,Patna,Female,Furniture
+CUST8075,328,1,38212.75,1,4,1,141,At Risk,Patna,Female,Fashion
+CUST8098,299,1,107775.6,1,4,3,143,At Risk,Patna,Female,Fashion
+CUST8105,356,1,107665.89,1,4,3,143,At Risk,Delhi,Male,Electronics
+CUST8110,32,1,103074.8,5,4,3,543,Loyal Customers,Delhi,Male,Electronics
+CUST8124,172,1,87386.72,3,4,2,342,Loyal Customers,Pune,Female,Fashion
+CUST8128,40,1,17070.85,5,4,1,541,Loyal Customers,Kolkata,Male,Electronics
+CUST8154,66,1,425608.74,5,4,5,545,Champions,Pune,Female,Electronics
+CUST8164,186,1,309378.72,3,4,5,345,Loyal Customers,Delhi,Female,Furniture
+CUST8195,153,1,3727.43,3,4,1,341,Loyal Customers,Patna,Female,Fashion
+CUST8199,278,1,10864.96,2,4,1,241,At Risk,Gaya,Female,Furniture
+CUST8200,281,1,97801.84,2,4,3,243,At Risk,Patna,Female,Electronics
+CUST8211,303,1,411726.33,1,4,5,145,At Risk,Gaya,Female,Furniture
+CUST8217,57,1,68529.18,5,4,2,542,Loyal Customers,Delhi,Female,Education
+CUST8225,41,1,311660.72,5,4,5,545,Champions,Bengaluru,Male,Grocery
+CUST8229,256,1,129289.55,2,4,3,243,At Risk,Pune,Male,Electronics
+CUST8242,56,1,235460.7,5,4,4,544,Champions,Mumbai,Male,Grocery
+CUST8268,83,1,115132.52,4,4,3,443,Loyal Customers,Kolkata,Female,Fashion
+CUST8269,20,1,93549.04,5,4,3,543,Loyal Customers,Bengaluru,Female,Education
+CUST8294,182,1,199506.68,3,4,4,344,Loyal Customers,Hyderabad,Female,Education
+CUST8298,298,1,429431.7,1,4,5,145,At Risk,Delhi,Female,Electronics
+CUST8300,107,1,14491.62,4,4,1,441,Loyal Customers,Hyderabad,Female,Grocery
+CUST8311,191,1,45048.9,3,4,2,342,Loyal Customers,Bengaluru,Male,Electronics
+CUST8314,301,1,73387.62,1,4,2,142,At Risk,Gaya,Female,Furniture
+CUST8316,323,1,369482.04,1,4,5,145,At Risk,Hyderabad,Female,Electronics
+CUST8318,99,1,6050.27,4,4,1,441,Loyal Customers,Kolkata,Female,Electronics
+CUST8319,309,1,99371.28,1,4,3,143,At Risk,Delhi,Male,Grocery
+CUST8322,192,1,242974.8,3,4,5,345,Loyal Customers,Hyderabad,Male,Furniture
+CUST8325,289,1,324318.12,1,4,5,145,At Risk,Bengaluru,Female,Furniture
+CUST8338,180,1,188413.61,3,4,4,344,Loyal Customers,Pune,Male,Fashion
+CUST8346,361,1,439609.5,1,4,5,145,At Risk,Hyderabad,Male,Electronics
+CUST8347,154,1,12255.87,3,4,1,341,Loyal Customers,Hyderabad,Male,Education
+CUST8352,304,1,210254.64,1,4,4,144,At Risk,Gaya,Male,Electronics
+CUST8364,179,1,85364.44,3,4,2,342,Loyal Customers,Hyderabad,Male,Electronics
+CUST8366,283,1,299029.7,2,4,5,245,At Risk,Bengaluru,Female,Education
+CUST8381,230,1,473144.2,2,4,5,245,At Risk,Kolkata,Male,Education
+CUST8387,25,1,154238.45,5,4,4,544,Champions,Bengaluru,Female,Furniture
+CUST8390,314,1,285282.83,1,4,5,145,At Risk,Mumbai,Female,Electronics
+CUST8399,100,1,97826.15,4,4,3,443,Loyal Customers,Mumbai,Male,Education
+CUST8408,179,1,122496.24,3,4,3,343,Loyal Customers,Delhi,Female,Electronics
+CUST8425,218,1,100147.38,2,4,3,243,At Risk,Delhi,Male,Electronics
+CUST8430,3,1,17766.9,5,4,1,541,Loyal Customers,Gaya,Male,Electronics
+CUST8431,142,1,220973.34,4,4,4,444,Champions,Delhi,Male,Grocery
+CUST8453,358,1,101689.05,1,4,3,143,At Risk,Patna,Female,Electronics
+CUST8455,221,1,95992.04,2,4,3,243,At Risk,Bengaluru,Female,Fashion
+CUST8466,133,1,47743.08,4,4,2,442,Loyal Customers,Hyderabad,Male,Electronics
+CUST8467,307,1,8582.49,1,4,1,141,At Risk,Bengaluru,Male,Education
+CUST8502,43,1,14756.18,5,4,1,541,Loyal Customers,,Male,Electronics
+CUST8513,16,1,228955.74,5,4,4,544,Champions,Pune,Female,Electronics
+CUST8515,162,1,236398.82,3,4,4,344,Loyal Customers,Mumbai,Male,Furniture
+CUST8525,257,1,85329.0,2,4,2,242,At Risk,Gaya,Female,Fashion
+CUST8532,242,1,69756.24,2,4,2,242,At Risk,Delhi,Female,Furniture
+CUST8537,346,1,39400.4,1,4,2,142,At Risk,Hyderabad,Female,Electronics
+CUST8575,280,1,38929.37,2,4,2,242,At Risk,Patna,Male,Education
+CUST8578,9,1,6910.12,5,4,1,541,Loyal Customers,Kolkata,Male,Electronics
+CUST8583,12,1,35903.14,5,4,1,541,Loyal Customers,Delhi,Female,Electronics
+CUST8595,14,1,18229.0,5,4,1,541,Loyal Customers,Mumbai,Female,Electronics
+CUST8600,288,1,10884.12,2,4,1,241,At Risk,Hyderabad,Male,Education
+CUST8623,345,1,407455.5,1,4,5,145,At Risk,Hyderabad,Male,Electronics
+CUST8649,37,1,420808.14,5,4,5,545,Champions,Gaya,Male,Grocery
+CUST8650,316,1,78828.6,1,4,2,142,At Risk,Gaya,Male,Grocery
+CUST8657,35,1,444016.4,5,4,5,545,Champions,Delhi,Female,Electronics
+CUST8660,296,1,203722.48,1,4,4,144,At Risk,Patna,Female,Electronics
+CUST8686,66,1,175530.12,5,4,4,544,Champions,Patna,Female,Furniture
+CUST8691,131,1,82110.87,4,4,2,442,Loyal Customers,Patna,Male,Fashion
+CUST8700,170,1,125182.65,3,4,3,343,Loyal Customers,Mumbai,Female,Electronics
+CUST8704,58,1,107664.42,5,4,3,543,Loyal Customers,Kolkata,Female,Electronics
+CUST8708,259,2,458065.57000000007,2,5,5,255,At Risk,Kolkata,Female,Electronics
+CUST8722,356,1,196134.84,1,5,4,154,At Risk,Mumbai,Male,Electronics
+CUST8729,26,1,163132.56,5,5,4,554,Champions,Kolkata,Male,Furniture
+CUST8754,24,1,173173.12,5,5,4,554,Champions,Kolkata,Male,Electronics
+CUST8759,308,1,22534.47,1,5,1,151,At Risk,Hyderabad,Female,Furniture
+CUST8766,235,1,235105.5,2,5,4,254,At Risk,Hyderabad,Female,Electronics
+CUST8789,26,1,26647.6,5,5,1,551,Loyal Customers,Delhi,Female,Education
+CUST8811,21,1,44708.5,5,5,2,552,Loyal Customers,Bengaluru,Female,Furniture
+CUST8813,119,1,350597.34,4,5,5,455,Champions,Bengaluru,Male,Electronics
+CUST8820,231,1,294353.64,2,5,5,255,At Risk,Kolkata,Female,Electronics
+CUST8826,354,1,154420.0,1,5,4,154,At Risk,Gaya,Female,Electronics
+CUST8834,181,1,73262.46,3,5,2,352,Loyal Customers,Mumbai,Female,Grocery
+CUST8841,337,1,174065.2,1,5,4,154,At Risk,Patna,Female,Education
+CUST8849,325,1,181093.04,1,5,4,154,At Risk,Patna,Female,Education
+CUST8851,94,1,3753.78,4,5,1,451,Loyal Customers,Kolkata,Male,Furniture
+CUST8859,315,1,141013.88,1,5,3,153,At Risk,,Male,Electronics
+CUST8871,144,1,113857.04,3,5,3,353,Loyal Customers,Kolkata,Female,Furniture
+CUST8877,361,1,60403.62,1,5,2,152,At Risk,Kolkata,Female,Education
+CUST8887,234,1,299928.48,2,5,5,255,At Risk,Bengaluru,Female,Education
+CUST8899,262,1,153670.14,2,5,4,254,At Risk,Delhi,Male,Electronics
+CUST8904,78,1,63886.38,4,5,2,452,Loyal Customers,Kolkata,Female,Grocery
+CUST8907,71,1,288940.95,4,5,5,455,Champions,Hyderabad,Male,Grocery
+CUST8908,290,1,2344.98,1,5,1,151,At Risk,Pune,Male,Fashion
+CUST8947,14,1,146639.61,5,5,4,554,Champions,Patna,Female,Grocery
+CUST8962,155,1,254006.73,3,5,5,355,Loyal Customers,Kolkata,Female,Education
+CUST8975,300,1,191586.8,1,5,4,154,At Risk,Gaya,Female,Electronics
+CUST8996,301,1,126134.07,1,5,3,153,At Risk,Hyderabad,Male,Fashion
+CUST9008,74,1,125266.25,4,5,3,453,Loyal Customers,Hyderabad,Female,Education
+CUST9009,23,1,76855.26,5,5,2,552,Loyal Customers,Mumbai,Male,Electronics
+CUST9017,140,1,109163.28,4,5,3,453,Loyal Customers,Delhi,Female,Education
+CUST9022,212,1,91224.84,3,5,3,353,Loyal Customers,Mumbai,Female,Grocery
+CUST9027,240,1,25767.92,2,5,1,251,At Risk,Mumbai,Female,Fashion
+CUST9042,54,1,64916.12,5,5,2,552,Loyal Customers,Hyderabad,Female,Furniture
+CUST9047,275,1,325228.19,2,5,5,255,At Risk,Patna,Male,Electronics
+CUST9055,181,1,47870.04,3,5,2,352,Loyal Customers,Gaya,Male,Electronics
+CUST9059,250,1,150907.5,2,5,4,254,At Risk,Delhi,Male,Electronics
+CUST9081,152,2,386309.13,3,5,5,355,Loyal Customers,Hyderabad,Female,Education
+CUST9089,17,2,469247.1,5,5,5,555,Champions,Gaya,Female,Education
+CUST9092,156,1,37930.19,3,5,1,351,Loyal Customers,Mumbai,Male,Furniture
+CUST9097,127,1,64336.72,4,5,2,452,Loyal Customers,Hyderabad,Male,Education
+CUST9104,14,1,91718.44,5,5,3,553,Loyal Customers,Bengaluru,Male,Education
+CUST9111,275,1,153103.75,2,5,4,254,At Risk,Kolkata,Female,Fashion
+CUST9113,151,1,191143.08,3,5,4,354,Loyal Customers,Hyderabad,Male,Education
+CUST9123,73,1,270574.5,4,5,5,455,Champions,Mumbai,Female,Grocery
+CUST9125,145,1,47927.36,3,5,2,352,Loyal Customers,Mumbai,Female,Furniture
+CUST9131,249,1,372913.47,2,5,5,255,At Risk,Delhi,Female,Education
+CUST9132,352,1,310471.04,1,5,5,155,At Risk,Pune,Female,Grocery
+CUST9158,266,1,22073.28,2,5,1,251,At Risk,Gaya,Male,Furniture
+CUST9159,272,1,208852.56,2,5,4,254,At Risk,Kolkata,Female,Electronics
+CUST9175,144,1,212252.94,3,5,4,354,Loyal Customers,Mumbai,Male,Fashion
+CUST9181,198,1,2892.4,3,5,1,351,Loyal Customers,Patna,Female,Electronics
+CUST9191,313,1,153373.8,1,5,4,154,At Risk,Hyderabad,Male,Education
+CUST9203,208,1,27936.6,3,5,1,351,Loyal Customers,Delhi,Male,Electronics
+CUST9209,70,2,280214.68000000005,4,5,5,455,Champions,Gaya,Female,Electronics
+CUST9217,241,1,22073.4,2,5,1,251,At Risk,Delhi,Female,Education
+CUST9219,334,1,131685.75,1,5,3,153,At Risk,Gaya,Female,Electronics
+CUST9233,243,1,363317.5,2,5,5,255,At Risk,Hyderabad,Male,Furniture
+CUST9248,271,1,106419.88,2,5,3,253,At Risk,Mumbai,Male,Furniture
+CUST9253,65,1,215803.3,5,5,4,554,Champions,Pune,Female,Grocery
+CUST9259,133,1,70840.92,4,5,2,452,Loyal Customers,Hyderabad,Male,Electronics
+CUST9273,300,1,143245.35,1,5,3,153,At Risk,Hyderabad,Female,Furniture
+CUST9282,256,1,70625.7,2,5,2,252,At Risk,Mumbai,Female,Electronics
+CUST9284,261,1,19210.3,2,5,1,251,At Risk,Kolkata,Female,Education
+CUST9285,24,1,223298.32,5,5,4,554,Champions,Gaya,Female,Electronics
+CUST9287,96,2,163555.53999999998,4,5,4,454,Champions,Bengaluru,Female,Education
+CUST9292,69,1,128637.6,4,5,3,453,Loyal Customers,Bengaluru,Male,Fashion
+CUST9297,213,1,203724.09,3,5,4,354,Loyal Customers,Kolkata,Female,Electronics
+CUST9299,206,1,215004.9,3,5,4,354,Loyal Customers,Delhi,Female,Electronics
+CUST9303,130,1,376981.83,4,5,5,455,Champions,Kolkata,Female,Electronics
+CUST9304,281,1,64664.54,2,5,2,252,At Risk,Bengaluru,Female,Fashion
+CUST9307,125,2,390387.42,4,5,5,455,Champions,Delhi,Female,Education
+CUST9319,328,1,36805.55,1,5,1,151,At Risk,Pune,Female,Grocery
+CUST9324,118,1,12494.97,4,5,1,451,Loyal Customers,Hyderabad,Female,Furniture
+CUST9325,29,1,87780.4,5,5,3,553,Loyal Customers,Mumbai,Female,Electronics
+CUST9339,363,1,245737.05,1,5,5,155,At Risk,Patna,Male,Furniture
+CUST9351,204,1,398903.76,3,5,5,355,Loyal Customers,Pune,Male,Education
+CUST9354,281,1,42782.38,2,5,2,252,At Risk,Patna,Female,Grocery
+CUST9364,287,1,99559.14,2,5,3,253,At Risk,Gaya,Female,Education
+CUST9379,286,1,9009.36,2,5,1,251,At Risk,Kolkata,Female,Electronics
+CUST9381,200,2,441863.7,3,5,5,355,Loyal Customers,Kolkata,Male,Education
+CUST9384,75,1,20626.25,4,5,1,451,Loyal Customers,Mumbai,Female,Grocery
+CUST9404,189,1,70861.06,3,5,2,352,Loyal Customers,Gaya,Female,Education
+CUST9414,16,1,77138.4,5,5,2,552,Loyal Customers,Hyderabad,Female,Grocery
+CUST9421,43,2,115788.23999999999,5,5,3,553,Loyal Customers,Bengaluru,Female,Fashion
+CUST9449,149,1,23934.94,3,5,1,351,Loyal Customers,Mumbai,Female,Fashion
+CUST9450,208,1,112729.05,3,5,3,353,Loyal Customers,Bengaluru,Male,Electronics
+CUST9458,238,2,56158.259999999995,2,5,2,252,At Risk,Bengaluru,Male,Electronics
+CUST9464,8,1,45338.4,5,5,2,552,Loyal Customers,Gaya,Male,Education
+CUST9465,255,2,184323.94,2,5,4,254,At Risk,Gaya,Male,Electronics
+CUST9469,199,2,232888.33,3,5,4,354,Loyal Customers,Kolkata,Female,Fashion
+CUST9485,201,1,85037.6,3,5,2,352,Loyal Customers,Mumbai,Male,Electronics
+CUST9486,259,1,432103.32,2,5,5,255,At Risk,Hyderabad,Male,Fashion
+CUST9488,295,1,58079.12,1,5,2,152,At Risk,Pune,Male,Fashion
+CUST9489,189,1,29313.46,3,5,1,351,Loyal Customers,Delhi,Male,Education
+CUST9493,205,1,127543.5,3,5,3,353,Loyal Customers,Gaya,Male,Electronics
+CUST9501,315,1,25911.09,1,5,1,151,At Risk,Delhi,Male,Electronics
+CUST9510,237,2,867333.24,2,5,5,255,At Risk,Delhi,Female,Furniture
+CUST9514,196,1,46255.26,3,5,2,352,Loyal Customers,Patna,Female,Furniture
+CUST9515,239,1,133044.7,2,5,3,253,At Risk,Kolkata,Female,Furniture
+CUST9518,50,1,123894.12,5,5,3,553,Loyal Customers,Pune,Male,Electronics
+CUST9543,319,1,91618.18,1,5,3,153,At Risk,Bengaluru,Female,Furniture
+CUST9544,94,1,116744.31,4,5,3,453,Loyal Customers,Hyderabad,Female,Electronics
+CUST9551,295,1,474935.9,1,5,5,155,At Risk,Bengaluru,Male,Electronics
+CUST9552,146,1,7745.85,3,5,1,351,Loyal Customers,Patna,Male,Furniture
+CUST9557,339,1,137155.95,1,5,3,153,At Risk,Mumbai,Male,Education
+CUST9562,313,1,129925.28,1,5,3,153,At Risk,Mumbai,Male,Furniture
+CUST9563,228,1,35133.76,2,5,1,251,At Risk,Gaya,Male,Education
+CUST9565,72,1,174333.28,4,5,4,454,Champions,Mumbai,Female,Education
+CUST9567,203,1,33193.9,3,5,1,351,Loyal Customers,Delhi,Male,Fashion
+CUST9577,287,1,145301.46,2,5,4,254,At Risk,Mumbai,Male,Electronics
+CUST9612,72,1,66134.2,4,5,2,452,Loyal Customers,Kolkata,Male,Electronics
+CUST9614,111,1,84656.2,4,5,2,452,Loyal Customers,Bengaluru,Male,Fashion
+CUST9619,345,1,3839.04,1,5,1,151,At Risk,Pune,Male,Electronics
+CUST9622,28,1,28466.49,5,5,1,551,Loyal Customers,Kolkata,Male,Electronics
+CUST9627,278,1,139501.8,2,5,3,253,At Risk,Gaya,Male,Grocery
+CUST9628,359,1,72852.1,1,5,2,152,At Risk,Bengaluru,Male,Furniture
+CUST9642,242,1,42454.26,2,5,2,252,At Risk,Delhi,Male,Fashion
+CUST9645,113,2,131738.91999999998,4,5,3,453,Loyal Customers,Hyderabad,Female,Furniture
+CUST9649,274,1,334585.35,2,5,5,255,At Risk,Gaya,Male,Electronics
+CUST9650,105,1,17299.04,4,5,1,451,Loyal Customers,Hyderabad,Female,Education
+CUST9651,44,1,242701.7,5,5,5,555,Champions,Delhi,Female,Education
+CUST9674,227,1,106274.97,2,5,3,253,At Risk,Mumbai,Female,Electronics
+CUST9693,265,2,511421.86,2,5,5,255,At Risk,Bengaluru,Male,Education
+CUST9700,120,1,40148.6,4,5,2,452,Loyal Customers,Kolkata,Female,Electronics
+CUST9709,175,1,378037.6,3,5,5,355,Loyal Customers,Pune,Male,Electronics
+CUST9718,173,1,91726.26,3,5,3,353,Loyal Customers,,Female,Electronics
+CUST9724,247,1,156221.6,2,5,4,254,At Risk,Pune,Male,Electronics
+CUST9728,125,1,185424.32,4,5,4,454,Champions,Gaya,Male,Grocery
+CUST9745,180,1,29263.26,3,5,1,351,Loyal Customers,Mumbai,Male,Fashion
+CUST9754,322,1,203569.62,1,5,4,154,At Risk,Delhi,Male,Furniture
+CUST9770,42,1,116929.38,5,5,3,553,Loyal Customers,Mumbai,Female,Education
+CUST9776,308,1,34541.88,1,5,1,151,At Risk,Delhi,Female,Grocery
+CUST9788,51,1,138165.76,5,5,3,553,Loyal Customers,Hyderabad,Male,Electronics
+CUST9804,133,1,226417.1,4,5,4,454,Champions,Patna,Male,Electronics
+CUST9812,195,1,28196.26,3,5,1,351,Loyal Customers,Pune,Female,Electronics
+CUST9817,79,1,66300.43,4,5,2,452,Loyal Customers,Patna,Male,Electronics
+CUST9840,357,1,163236.96,1,5,4,154,At Risk,Bengaluru,Female,Electronics
+CUST9846,263,1,64707.84,2,5,2,252,At Risk,Patna,Female,Education
+CUST9849,103,1,192594.75,4,5,4,454,Champions,Delhi,Female,Furniture
+CUST9869,192,1,206413.15,3,5,4,354,Loyal Customers,Hyderabad,Female,Education
+CUST9871,17,1,34690.3,5,5,1,551,Loyal Customers,Pune,Female,Electronics
+CUST9875,273,1,120557.08,2,5,3,253,At Risk,Bengaluru,Male,Electronics
+CUST9882,120,1,33198.0,4,5,1,451,Loyal Customers,Kolkata,Female,Electronics
+CUST9900,204,1,97972.96,3,5,3,353,Loyal Customers,Bengaluru,Male,Fashion
+CUST9910,77,1,90068.24,4,5,3,453,Loyal Customers,Hyderabad,Male,Fashion
+CUST9927,144,1,35804.49,3,5,1,351,Loyal Customers,Bengaluru,Female,Fashion
+CUST9942,93,2,315539.87,4,5,5,455,Champions,Delhi,Female,Electronics
+CUST9945,281,1,3375.35,2,5,1,251,At Risk,Hyderabad,Male,Grocery
+CUST9952,238,1,198199.5,2,5,4,254,At Risk,Bengaluru,Female,Electronics
+CUST9953,216,1,221829.7,2,5,4,254,At Risk,Hyderabad,Female,Electronics
+CUST9957,2,1,99838.56,5,5,3,553,Loyal Customers,Pune,Female,Furniture
+CUST9962,121,1,181783.2,4,5,4,454,Champions,Mumbai,Male,Furniture
+CUST9966,57,2,399939.3,5,5,5,555,Champions,Kolkata,Female,Electronics
+CUST9994,356,1,261678.42,1,5,5,155,At Risk,Delhi,Male,Furniture
